@@ -8,6 +8,7 @@ use Lucid\Units\Job;
 class SaveSportJob extends Job
 {
     private string $name;
+
     /**
      * Create a new job instance.
      *
