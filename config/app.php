@@ -167,6 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
+        App\Services\Sport\Providers\SportServiceProvider::class,
 
         /*
          * Application Service Providers...
